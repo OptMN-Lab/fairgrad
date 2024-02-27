@@ -27,7 +27,7 @@ python -m pip install -e .
 ```
 
 ### Run Experiment
-The dataset by default should be put under `experiments/EXP_NAME/dataset/` folder where `EXP_NAME` is chosen from {celeba, cityscapes, nyuv2, quantum_chemistry}. To run the experiment:
+The dataset by default should be put under `experiments/EXP_NAME/dataset/` folder where `EXP_NAME` is chosen from `{celeba, cityscapes, nyuv2, quantum_chemistry}`. To run the experiment:
 ```
 cd experiments/EXP_NAME
 sh run.sh
