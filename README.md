@@ -1,6 +1,7 @@
 # FairGrad
 Official implementation of *Fair Resource Allocation in Multi-Task Learning*.
 
+![Toy Example](/misc/toy.png)
 
 ## Supervised Learning
 The performance is evaluated under 3 scenarios:
