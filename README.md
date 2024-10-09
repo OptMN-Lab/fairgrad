@@ -32,6 +32,9 @@ The dataset by default should be put under `experiments/EXP_NAME/dataset/` folde
 cd experiments/EXP_NAME
 sh run.sh
 ```
+**Cityscapes, NYU-v2, QM9**. Please refer to Table 2,3,8 of our paper for more details.
+
+**CelebA**. For detailed results of our method, please refer to [issue1](https://github.com/OptMN-Lab/fairgrad/issues/1). For single-task results and other baselines including FAMO, CAGrad, etc, please refer to [issue2](https://github.com/Cranial-XIX/FAMO/issues/2) for more details.
 
 ## Reinforcement Learning
 The experiments are conducted on [Meta-World](https://github.com/Farama-Foundation/Metaworld) benchmark. To run the experiments on `MT10` and `MT50` (the instructions below are partly borrowed from [CAGrad](https://github.com/Cranial-XIX/CAGrad)):
